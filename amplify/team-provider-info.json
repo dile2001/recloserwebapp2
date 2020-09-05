@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-recloserwebapp-dev-00205-authRole",
+      "UnauthRoleArn": "arn:aws:iam::470140387831:role/amplify-recloserwebapp-dev-00205-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::470140387831:role/amplify-recloserwebapp-dev-00205-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-recloserwebapp-dev-00205-deployment",
+      "UnauthRoleName": "amplify-recloserwebapp-dev-00205-unauthRole",
+      "StackName": "amplify-recloserwebapp-dev-00205",
+      "StackId": "arn:aws:cloudformation:us-east-2:470140387831:stack/amplify-recloserwebapp-dev-00205/ae9a5af0-efb2-11ea-9ccd-0256fd477060",
+      "AmplifyAppId": "d2iehgw0vghjwy"
+    },
+    "categories": {
+      "auth": {
+        "recloserwebapp8fe1bffd": {}
+      }
+    }
+  }
+}

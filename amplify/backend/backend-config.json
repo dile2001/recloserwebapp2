@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "recloserwebapp8fe1bffd": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
